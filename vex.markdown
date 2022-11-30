@@ -6,7 +6,7 @@
 
 3.完成vex的readme文件
 
-4.完成后提交到`guangzhou0827`中
+4.完成后提交到`guangzhou0827`
 
 ---
 
